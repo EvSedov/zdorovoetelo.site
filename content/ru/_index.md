@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "Студия Образования Волхоновой Александры «СОВА»"
-  content: "Обучение чтению на английском языке."
+  title: "Онлайн-школа"
+  content: "Ольги Бовиной"
   button:
     enable: false
     label: ""
     link: ""
-  image: "images/hero-img.png"
+  # image: ""
   # content2: ""
   # bulletpoints:
   #   - "**МАТЕМАТИКА:**"

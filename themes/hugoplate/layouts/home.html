@@ -4,11 +4,11 @@
     <section class="section pt-14">
       <div class="container">
         <div class="row justify-center">
-          <div class="lg:col-7 md:col-9 mb-8 text-center">
-            <h1 class="mb-4 text-h3 lg:text-h1">
+          <div class="mb-8 text-center">
+            <h1 class="mb-4 text-h4 lg:text-h1">
               {{ .title | markdownify }}
             </h1>
-            <p class="mb-8">
+            <p class="mb-8 text-h6 lg:text-h3">
               {{ .content | markdownify }}
             </p>
             {{ with .button }}
@@ -25,16 +25,16 @@
               {{ end }}
             {{ end }}
           </div>
-          <div class="col-12">
+          <!--<div class="col-12">
             {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
-          </div>
+          </div>-->
         </div>
       </div>
     </section>
   {{ end }}
   <!-- /Banner -->
 
-  <!-- Features -->
+  <!-- Features
   {{ range $i, $e:= .Params.features }}
     <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
       <div class="container">
@@ -75,10 +75,10 @@
         </div>
       </div>
     </section>
-  {{ end }}
+  {{ end }}-->
   <!-- /Features -->
 
-  <!-- Testimonials -->
+  <!-- Testimonials
   {{ with site.GetPage "sections/testimonial" }}
     {{ if .Params.enable }}
       <section class="section">
@@ -139,6 +139,6 @@
         </div>
       </section>
     {{ end }}
-  {{ end }}
+  {{ end }}-->
   <!-- /Testimonials -->
 {{ end }}

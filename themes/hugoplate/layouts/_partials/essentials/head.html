@@ -8,6 +8,8 @@
 <!-- theme meta -->
 <meta name="theme-name" content="hugoplate" />
 
+<link rel="canonical" href="{{ .Permalink }}" />
+
 <!-- favicon -->
 {{ partialCached "favicon" . }}
 
@@ -41,6 +43,21 @@
 <!-- search index -->
 {{ partial "search-index.html" . }}
 
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationalOrganization",
+    "name": "ИП Бовина Ольга Валентиновна",
+    "url": "https://zdorovoetelo.site/",
+    "email": "bovina366@gmail.com",
+    "description": "Дополнительное образование детей и взрослых дистанционно",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Москва",
+      "addressCountry": "RU"
+    }
+  }
+</script>
 
 <!-- matomo analytics -->
 {{/* {{ partialCached "matomo-analytics.html" . }} */}}

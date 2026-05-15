@@ -32,7 +32,37 @@ draft: false
 
 {{< accordion "Документы" >}}
 
-Раздел находится в разработке. 
+{{< download_link "/uploads/education/documents/polozhenie-eios-conditions-bovina-ov.pdf" "polozhenie-eios-conditions-bovina-ov.pdf" >}}Положение о создании условий для функционирования электронной информационно-образовательной среды{{< /download_link >}}
+
+{{< download_link "/uploads/education/documents/pravila-vnutrennego-trudovogo-rasporyadka-bovina-ov.pdf" "pravila-vnutrennego-trudovogo-rasporyadka-bovina-ov.pdf" >}}Правила внутреннего трудового распорядка{{< /download_link >}}
+
+{{< download_link "/uploads/education/documents/polozhenie-hranenie-rezultatov-obrazovatelnogo-processa-bovina-ov.pdf" "polozhenie-hranenie-rezultatov-obrazovatelnogo-processa-bovina-ov.pdf" >}}Положение об организации и хранении результатов образовательного процесса{{< /download_link >}}
+
+{{< download_link "/uploads/education/documents/pravila-vnutrennego-rasporyadka-obuchayushchihsya-bovina-ov.pdf" "pravila-vnutrennego-rasporyadka-obuchayushchihsya-bovina-ov.pdf" >}}Правила внутреннего распорядка обучающихся{{< /download_link >}}
+
+{{< download_link "/uploads/education/documents/polozhenie-elektronnaya-biblioteka-bovina-ov.pdf" "polozhenie-elektronnaya-biblioteka-bovina-ov.pdf" >}}Положение об электронной библиотеке{{< /download_link >}}
+
+{{< download_link "/uploads/education/documents/polozhenie-organizaciya-obrazovatelnogo-processa-bovina-ov.pdf" "polozhenie-organizaciya-obrazovatelnogo-processa-bovina-ov.pdf" >}}Положение об организации образовательного процесса{{< /download_link >}}
+
+{{< download_link "/uploads/education/documents/poryadok-perevoda-otchisleniya-vosstanovleniya-bovina-ov.pdf" "poryadok-perevoda-otchisleniya-vosstanovleniya-bovina-ov.pdf" >}}Порядок и основания перевода, отчисления и восстановления обучающихся{{< /download_link >}}
+
+{{< download_link "/uploads/education/documents/instrukciya-elektronnoe-obuchenie-dot-bovina-ov.pdf" "instrukciya-elektronnoe-obuchenie-dot-bovina-ov.pdf" >}}Инструкция об осуществлении электронного обучения, дистанционных образовательных технологий для обучающихся{{< /download_link >}}
+
+{{< download_link "/uploads/education/documents/polozhenie-yazyk-obucheniya-bovina-ov.pdf" "polozhenie-yazyk-obucheniya-bovina-ov.pdf" >}}Положение о языке (языках) обучения{{< /download_link >}}
+
+{{< download_link "/uploads/education/documents/polozhenie-otnosheniya-ip-obuchayushchiesya-bovina-ov.pdf" "polozhenie-otnosheniya-ip-obuchayushchiesya-bovina-ov.pdf" >}}Положение о порядке оформления возникновения, приостановления и прекращения отношений между ИП и обучающимися{{< /download_link >}}
+
+{{< download_link "/uploads/education/documents/polozhenie-identifikaciya-lichnosti-obuchayushchegosya-bovina-ov.pdf" "polozhenie-identifikaciya-lichnosti-obuchayushchegosya-bovina-ov.pdf" >}}Положение об идентификации личности обучающегося{{< /download_link >}}
+
+{{< download_link "/uploads/education/documents/polozhenie-tekushchiy-kontrol-osvoeniya-programm-bovina-ov.pdf" "polozhenie-tekushchiy-kontrol-osvoeniya-programm-bovina-ov.pdf" >}}Положение о текущем контроле освоения дополнительных общеобразовательных программ{{< /download_link >}}
+
+{{< download_link "/uploads/education/documents/polozhenie-elektronnaya-informacionno-obrazovatelnaya-sreda-bovina-ov.pdf" "polozhenie-elektronnaya-informacionno-obrazovatelnaya-sreda-bovina-ov.pdf" >}}Положение об электронной информационно-образовательной среде{{< /download_link >}}
+
+{{< download_link "/uploads/education/documents/poryadok-sootnoshenie-obema-zanyatiy-bovina-ov.pdf" "poryadok-sootnoshenie-obema-zanyatiy-bovina-ov.pdf" >}}Порядок определения соотношения объема занятий{{< /download_link >}}
+
+{{< download_link "/uploads/education/documents/polozhenie-sootnoshenie-obema-zanyatiy-bovina-ov.pdf" "polozhenie-sootnoshenie-obema-zanyatiy-bovina-ov.pdf" >}}Положение о порядке определения соотношения объема занятий{{< /download_link >}}
+
+{{< download_link "/uploads/education/documents/polozhenie-kontrol-usloviy-provedeniya-meropriyatiy-bovina-ov.pdf" "polozhenie-kontrol-usloviy-provedeniya-meropriyatiy-bovina-ov.pdf" >}}Положение о контроле соблюдения условий проведения мероприятий{{< /download_link >}}
 
 {{< /accordion >}}
 
@@ -73,6 +103,10 @@ draft: false
 
 Обучающийся получает доступ к электронным материалам программы (видеолекции, методические материалы и т.п.) после оплаты курса в соответствие с расписанием.
 
+{{< download_link "/uploads/education/materials/instrukciya-platforma-dlya-uchenikov.pdf" "instrukciya-platforma-dlya-uchenikov.pdf" >}}Инструкция по работе с платформой для учеников{{< /download_link >}}
+
+{{< download_link "/uploads/education/materials/instrukciya-dlya-prepodavateley-getcourse.pdf" "instrukciya-dlya-prepodavateley-getcourse.pdf" >}}Инструкция для преподавателей GetCourse{{< /download_link >}}
+
 {{< /accordion >}}
 
 {{< accordion "Стипендии и меры поддержки обучающихся" >}}
@@ -86,7 +120,9 @@ draft: false
 
 {{< accordion "Платные образовательные услуги" >}}
 
-Раздел находится в разработке. 
+{{< download_link "/uploads/education/paid-services/polozhenie-platnye-obrazovatelnye-uslugi-bovina-ov.pdf" "polozhenie-platnye-obrazovatelnye-uslugi-bovina-ov.pdf" >}}Положение о порядке оказания платных образовательных услуг{{< /download_link >}}
+
+{{< download_link "/uploads/education/paid-services/prikaz-stoimost-obrazovatelnyh-programm-bovina-ov.pdf" "prikaz-stoimost-obrazovatelnyh-programm-bovina-ov.pdf" >}}Приказ о стоимости образовательных программ{{< /download_link >}}
 
 {{< /accordion >}}
 

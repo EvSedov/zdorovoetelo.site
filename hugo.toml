@@ -1,6 +1,10 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "/zdorovoetelo.site"
+# Use for GitHub Pages project site: https://evsedov.github.io/zdorovoetelo.site/
+baseURL = "https://evsedov.github.io/zdorovoetelo.site/"
+# Use for deployment under a relative /zdorovoetelo.site path.
+# baseURL = "/zdorovoetelo.site"
+# Use for local/root-domain deployment, for example Vercel on zdorovoetelo.site.
 # baseURL = "/"
 # Title of your website (required).
 title = "ZdorovoeTelo"
